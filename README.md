@@ -1,2 +1,4 @@
 # hello-world
-github told me to make this
+hello
+i like c# and js and im learning python
+epic
